@@ -10,7 +10,7 @@
 * * *  
 <h3 align="left">📈 My Github stats:</h3>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=momokahori124&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momokahori124&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jijiji-onaka&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jijiji-onaka&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--- made by https://github.com/anuraghazra/github-readme-stats --->
