@@ -3,9 +3,8 @@
 
 <h3 align="left">🤵 About Me:</h3>
 
-🌱 I am a student studying in 42Tokyo.
+🌱 I was a student studying in 42Tokyo(; ;).
 
-[![jaeskim's 42 status](https://badge42.herokuapp.com/api/stats/tjinichi?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
 
 * * *  
 <h3 align="left">📈 My Github stats:</h3>
